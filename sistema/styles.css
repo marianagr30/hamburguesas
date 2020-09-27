@@ -1,0 +1,87 @@
+* {
+    font-family: verdana,sans-serif;
+    font-size: 14pt;
+}
+body {
+    width: 700px;
+    margin: 20px auto;
+    background: url(images/fondo.png);
+    border: 1px solid #888;
+
+}
+html{
+    background: rgb(10, 187, 128);
+}
+img {
+    border: 1px solid black;
+    margin-right: 15px;
+    -moz-box-shadow: 2px 2px 2px #888;
+    -webkit-box-shadow: 2px 2px 2px #888;
+    box-shadow: 2px 2px 2px #888;
+}
+.username {
+    text-align: center;
+    background: rgb(239, 255, 9);
+    color: rgb(221, 0, 0);
+    font-family: helvetica;
+    font-size: 20pt;
+    padding: 4px;
+}
+.info {
+    font-style: italic;
+    margin: 40px 0px;
+    text-align: center;
+}
+.center {
+    text-align: center;
+    font-family: florence, cursive;
+    color: tomato;
+   
+    
+}
+.subhead {
+    font-weight: bold;
+}
+.taken, .error {
+    color: green;
+}
+.whisper {
+    font-style: italic;
+    color: #006600;
+}
+#logo {
+    font-family: Georgia;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 97px;
+    color: green;
+}
+#robin {
+    position: relative;
+    border: 0px;
+    margin-left: -6px;
+    margin-right: 0px;
+    top: 17px;
+    -moz-box-shadow: 0px 0px 0px;
+    -webkit-box-shadow: 0px 0px 0px;
+    box-shadow: 0px 0px 0px;
+}
+#used {
+    margin-top: 50px;
+}
+.titulo{
+    font-family: florence, cursive;
+    font-size: 20pt;
+    text-shadow: 5px 2px 4px green;
+}
+.parrafo{
+    margin: 10px 30px 10px 30px;
+    font-family: 'georgia', cursive;
+    border-color:rgb(0, 0, 0);
+    border-style: solid;
+    padding: 25px;
+    background-color: rgb(83, 186, 255);
+    font-style: italic;
+    font-size: large;
+    text-align: center;
+}
